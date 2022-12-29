@@ -1,7 +1,7 @@
 [
     {
         "title":"S.R Travels (Pvt) Ltd",
-        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "route":"Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"1, AK1J, Non AC",
@@ -13,7 +13,7 @@
     },
      {
         "title":"Akota Transport",
-        "route":"Route: Dhaka - Bogra - Naogaon (Via>Gazipur Chowrasta) ",
+        "route":" Dhaka - Bogra - Naogaon (Via>Gazipur Chowrasta) ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"1, AK1J, Non AC",
@@ -25,7 +25,7 @@
     },
      {
         "title":"S.R Travels (Pvt) Ltd",
-        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "route":"Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"1, AK1J, Non AC",
@@ -37,7 +37,7 @@
     },
      {
         "title":"Hanif Enterprise",
-        "route":"Route: Dhaka - Bogra - Naogaon(Via>Gazipur Chowrasta) ",
+        "route":" Dhaka - Bogra - Naogaon(Via>Gazipur Chowrasta) ",
         "starting":"Dhaka",
         "ending":"Mahasthangarh",
         "busType":"1, Hino-1J, Non AC",
@@ -49,7 +49,7 @@
     },
      {
         "title":"Manik Express",
-        "route":"Route: Dhaka - Bogura ",
+        "route":" Dhaka - Bogura ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"Hyundai. AC Business Class",
@@ -61,7 +61,7 @@
     },
      {
         "title":"S.R Travels (Pvt) Ltd",
-        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "route":" Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"1, AK1J, Non AC",
@@ -73,7 +73,7 @@
     },
      {
         "title":"S.R Travels (Pvt) Ltd",
-        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "route":" Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
         "starting":"Dhaka",
         "ending":"Bogura",
         "busType":"1, AK1J, Non AC",
