@@ -1,0 +1,86 @@
+[
+    {
+        "title":"S.R Travels (Pvt) Ltd",
+        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"1, AK1J, Non AC",
+        "startTime":"04:00 AM",
+        "endTime":"10:00 AM",
+        "pay":550,
+        "img":"https://i.ibb.co/18p1wHX/Ellipse-5.png",
+        "id":1
+    },
+     {
+        "title":"Akota Transport",
+        "route":"Route: Dhaka - Bogra - Naogaon (Via>Gazipur Chowrasta) ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"1, AK1J, Non AC",
+        "startTime":"07:30 AM",
+        "endTime":"12:30 PM",
+        "pay":550,
+        "img":"https://i.ibb.co/B3Y5MP0/Ellipse-5-1.png",
+        "id":2
+    },
+     {
+        "title":"S.R Travels (Pvt) Ltd",
+        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"1, AK1J, Non AC",
+        "startTime":"04:00 AM",
+        "endTime":"10:00 AM",
+        "pay":550,
+        "img":"https://i.ibb.co/18p1wHX/Ellipse-5.png",
+        "id":3
+    },
+     {
+        "title":"Hanif Enterprise",
+        "route":"Route: Dhaka - Bogra - Naogaon(Via>Gazipur Chowrasta) ",
+        "starting":"Dhaka",
+        "ending":"Mahasthangarh",
+        "busType":"1, Hino-1J, Non AC",
+        "startTime":"08:00 AM",
+        "endTime":"04:30 PM",
+        "pay":550,
+        "img":"https://i.ibb.co/Xz9VZs8/Ellipse-5-2.png",
+        "id":4
+    },
+     {
+        "title":"Manik Express",
+        "route":"Route: Dhaka - Bogura ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"Hyundai. AC Business Class",
+        "startTime":"11:55 PM",
+        "endTime":"06:00 AM",
+        "pay":1300,
+        "img":"https://i.ibb.co/mR1wNDV/Ellipse-5-3.png",
+        "id":5
+    },
+     {
+        "title":"S.R Travels (Pvt) Ltd",
+        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"1, AK1J, Non AC",
+        "startTime":"04:00 AM",
+        "endTime":"10:00 AM",
+        "pay":550,
+        "img":"https://i.ibb.co/18p1wHX/Ellipse-5.png",
+        "id":6
+    },
+     {
+        "title":"S.R Travels (Pvt) Ltd",
+        "route":"Route: Dhaka - Kodda - Sirajganj - Sherpur -Bogura ",
+        "starting":"Dhaka",
+        "ending":"Bogura",
+        "busType":"1, AK1J, Non AC",
+        "startTime":"04:00 AM",
+        "endTime":"10:00 AM",
+        "pay":550,
+        "img":"https://i.ibb.co/18p1wHX/Ellipse-5.png",
+        "id":7
+    }
+]

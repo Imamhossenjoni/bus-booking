@@ -1,0 +1,144 @@
+.main_section{
+    margin-top: 30px;
+
+}
+.card-item{
+    /* float: left; */
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    border:1px solid #8D8D8D;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.img-info{
+    width: 6%;
+    /* margin-left: 3%; */
+}
+.bus-details{
+    width: 35%;
+    margin-left: 2%;
+}
+.bus-type{
+    width: 24%;
+}
+.startTime{
+    width: 20%;
+}
+
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 80px;
+    background-color:
+    #047267;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 3px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .sits-number{
+    
+  }
+  .sits{
+    height: 50px;
+    width: 40px;
+    background-color: red;
+  }
+  .drowpdown{
+    width: 100%;
+    display: flex;
+
+  }
+  .sit_dropdown{
+    width: 50%;
+    margin-left: 10%;
+    /* background-color: orange; */
+  }
+  .form input{
+    background-color: #EEFEFC;
+    height: 40px;
+    width: 250px;
+    border-radius: 2px;
+    margin-top: 5px;
+    border:none;
+    text-align: left;
+    border:1px solid #EEFEFC;
+    padding: 3px;
+  }
+  .form select{
+    background-color: #EEFEFC;
+    font-weight: medium;
+    margin-top: 10px;
+    padding: 3px;
+    border-radius: 2px;
+  }
+  .col-3{
+    width: 22%;
+  }
+  .row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+  .textareaa{
+    border-top: 2px solid #047267;
+    display: flex;
+    width: 100%;
+    background-color:#EEFEFC;
+    margin-top: 20px;
+    height: 120px;
+    /* border-bottom: 2px solid #047267; */
+  }
+  .seats{
+    width:33.33%;
+    /* border-top: 2px solid #047267; */
+  }
+  .fare{
+    width:33.33%;
+  }
+  .sitClass{
+    width: 33.34%;
+  }
+  /* header  */
+  .header{
+    width: 100%;
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    /* border-bottom: 1px solid #8D8D8D; */
+  }
+  .available{
+    width: 33.33%;
+  }
+  .booked{
+    width: 33.33%;
+  }
+  .selectes{
+    width: 33.33%;
+  }
+  .driver{
+    margin-left: 430px;
+    margin-bottom: 30px;
+  }
